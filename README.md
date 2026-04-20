@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:cheavengang123@gmail.com)
-
+📧 Email: [cheavengang123@gmail.com](mailto:cheavengang123@gmail.com)
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
